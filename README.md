@@ -1,2 +1,2 @@
 # rust_playground
- Solve Hanoi Problem using Rust 
+ Solve Tower of Hanoi Problem using Rust 
